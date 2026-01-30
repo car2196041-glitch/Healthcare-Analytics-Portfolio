@@ -1,0 +1,11 @@
+auth_id,payer,cpt_code,status,denial_reason,request_date,decision_date,days_to_decision
+1001,Medicare,99213,Approved,,2025-01-05,2025-01-07,2
+1002,Medicare,73721,Denied,Medical Necessity,2025-01-06,2025-01-09,3
+1003,Medicaid,70551,Denied,Missing Docs,2025-01-06,2025-01-10,4
+1004,Commercial A,27447,Approved,,2025-01-07,2025-01-08,1
+1005,Commercial B,29881,Denied,No Auth,2025-01-07,2025-01-12,5
+1006,Commercial B,29881,Denied,Missing Docs,2025-01-08,2025-01-13,5
+1007,Medicaid,99214,Approved,,2025-01-08,2025-01-12,4
+1008,Commercial A,73721,Approved,,2025-01-09,2025-01-10,1
+1009,Medicare,70551,Denied,No Auth,2025-01-09,2025-01-11,2
+1010,Commercial B,27447,Approved,,2025-01-10,2025-01-13,3
