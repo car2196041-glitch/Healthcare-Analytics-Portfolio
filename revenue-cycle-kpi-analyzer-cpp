@@ -1,0 +1,62 @@
+# Revenue Cycle KPI Analyzer (C++ + Power BI)
+
+**Mock Organization:** Northstar Health Partners  
+
+This project demonstrates a healthcare revenue cycle analytics solution using both C++ and Power BI concepts.
+
+---
+
+## 📊 Power BI Dashboard Preview
+
+![Revenue Cycle Dashboard](../powerbi_mockups/revenue_cycle_dashboard.png)
+
+---
+
+## 💼 Business Problem
+
+Healthcare organizations need to monitor key revenue cycle KPIs such as:
+- denial rate
+- collection rate
+- outstanding balances
+- department performance
+
+This project simulates how those insights are generated using structured data.
+
+---
+
+## 🧠 Key Insights
+
+- Denial rate is elevated → requires workflow review
+- Collection rate below target → follow-up needed
+- Oncology and Orthopedics show highest balances
+
+---
+
+## 🛠 Technical Components
+
+- C++ application for KPI calculation
+- CSV-based dataset
+- Power BI dashboard mockup
+- SQL (for backend analysis in other files)
+
+---
+
+## 📁 Related Files
+
+- `main.cpp` (C++ logic)
+- `sample_accounts.csv` (dataset)
+- `powerbi_mockups/` (dashboard visuals)
+
+---
+
+## 🚀 Portfolio Value
+
+This project highlights:
+- Healthcare domain expertise
+- Data analysis logic
+- KPI reporting
+- Technical + business integration
+
+---
+
+**Note:** All data is fictional for portfolio purposes.
