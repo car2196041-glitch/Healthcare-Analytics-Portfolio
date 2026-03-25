@@ -1,3 +1,26 @@
+# 👩‍💻 Caramarie Lacerna | Healthcare Data Analytics Portfolio
+
+Experienced healthcare professional transitioning into data analytics with a focus on **revenue cycle, patient access, and operational KPIs**.
+
+---
+
+## 🚀 Featured Project: Revenue Cycle KPI Analyzer
+
+📊 **Mock Organization:** Northstar Health Partners
+🛠 **Tools:** C++, SQL, Power BI Concepts
+
+### 🔍 What This Project Demonstrates
+
+* KPI analysis (Denial Rate, Collection Rate, Balance)
+* Healthcare revenue cycle insights
+* Business + technical integration
+
+### 📸 Dashboard Preview
+
+![Revenue Cycle Dashboard](powerbi_mockups/revenue_cycle_dashboard.png)
+
+---
+
 # Healthcare Analytics Portfolio  
 **Revenue Cycle • Utilization Management • Data Analytics (Mock Data)**
 
